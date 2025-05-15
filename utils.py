@@ -14,7 +14,6 @@ import sqlite3 # Import SQLite
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-#AIzaSyB_4TlzMTI7HRJ9c1dYETWfRB0qelOrVFQ
 # --- Configuration ---
 DEFAULT_GEMINI_API_KEY = "placeholderAPI" # User-provided
 GEMINI_MODEL_NAME = "gemini-2.5-flash-preview-04-17"      # User-provided
